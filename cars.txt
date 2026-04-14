@@ -1,0 +1,16 @@
+1
+Toyota Corolla
+50
+no
+2
+Honda Civic
+60
+no
+3
+Ford Mustang
+100
+yes
+4
+Toyota GLI
+55
+yes
